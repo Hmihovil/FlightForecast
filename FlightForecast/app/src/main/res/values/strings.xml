@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flight Forecast</string>
+    <string name="takeoff_date">Date</string>
+    <string name="landing_date">Date</string>
+    <string name="takeoff_time">Time</string>
+    <string name="date_error_1">Date cannot be earlier than today</string>
+    <string name="time_error_1">Time cannot be earlier than current time</string>
+    <string name="landing_time">Time</string>
+    <string name="spinner_title">State</string>
+    <string name="t_state_prompt">Choose Takeoff State/Territory</string>
+    <string name="t_city_prompt">Choose Takeoff City</string>
+    <string name="search_button">Forecast!</string>
+    <string name="exit_button">Exit</string>
+    <string name="title_activity_search_results">Search Results</string>
+    <string name="tTemperature">Temperature Unavailable</string>
+    <string name="tCondition">Condition Unavailable</string>
+    <string name="tLocation">Takeoff Location</string>
+    <string name="lTemperature">Temperature Unavailable</string>
+    <string name="lCondition">Condition Unavailable</string>
+    <string name="lLocation">Landing Location</string>
+    <string name="tLabel">At Takeoff:</string>
+    <string name="lLabel">At Landing:</string>
+    <string name="tStateLabel">Takeoff City:</string>
+    <string name="tCityLabel">Takeoff City:</string>
+    <string name="lStateLabel">Landing State:</string>
+    <string name="lCityLabel">Landing City:</string>
+    <string name="tInfoLabel">Set Takeoff Info:</string>
+    <string name="lInfoLabel">Set Landing Info:</string>
+    <string name="dLabel">Chance of Delay:</string>
+</resources>
